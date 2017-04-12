@@ -1,6 +1,6 @@
 # Sunday Folks Dashboard
 
-Site hosted [here](https://rhynade.github.io/Dashboard/index.html).
+Site hosted [here](https://rhynade.github.io/sf-dashboard).
 
 ## Team Members
 
